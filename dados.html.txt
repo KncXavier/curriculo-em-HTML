@@ -1,0 +1,48 @@
+</head>
+
+<body>
+   <font face="Arial">
+   <h1>Cabeçalho 1</h1>
+   <h2>Cabeçalho 2</h2>
+   <h3>Cabeçalho 3</h3>
+   <h4>Cabeçalho 4</h4>
+
+
+   Nome: <font size="6"><b>KAUAN CAVALCANTE <i>XAVIER</i></b></font><br>
+   E-mail: <i>kauancavalcantexavier11@gmail.com</i><br>
+   Prontuário: CB3023851<br><br>
+   Histórico escolar:<br>
+   <ul>
+    UME ESTADO DE GOIAS - 1 ano - FUNDAMENTAL - 2014
+    UME ANTÔNIO ORTEGA DOMINGUES - 2° ano - FUNDAMENTAL - 2015
+    UME ANTÔNIO ORTEGA DOMINGUES - 3° ano - FUNDAMENTAL - 2016
+    UME ANTÔNIO ORTEGA DOMINGUES - 4° ano - FUNDAMENTAL - 2017
+    UME ANTÔNIO ORTEGA DOMINGUES - 5° ano - FUNDAMENTAL - 2018
+    UME PADRE MANOEL NÓBREGA - 6° ano - FUNDAMENTAL - 2019
+    UME PADRE MANOEL NÓBREGA - 7° ano - FUNDAMENTAL - 2020
+    UME PADRE MANOEL NÓBREGA - 8° ano - FUNDAMENTAL - 2021
+    UME PADRE MANOEL NÓBREGA - 9° ano - FUNDAMENTAL - 2022
+    
+    <li> ESTE ALUNO CURSOU E COMPLETOU O ENSINO FUNDAMENTAL 1 e 2.
+    </ul>
+
+   <hr>
+
+   Hobbies:<br>
+   <ul>
+   <li>Ler</li>
+   <li>games</li>
+   <li>Música</li>
+   <li>poesias</li>
+   </ul>
+
+   Pratos preferidos:<br>
+   <ol>
+   <li>bife</li>
+   <li>Frango empanado</li>
+   <li>Peixe frito</li>
+   </ol>
+   </font>
+</body>
+
+</html>
